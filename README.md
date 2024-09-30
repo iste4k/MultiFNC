@@ -1,6 +1,6 @@
 # LtifNam
 
-This program makes easy to rename vast amount of files and folders.
+This program makes it easy to rename a vast amount of files and folders.
 
 # About Development
 
