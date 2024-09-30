@@ -1,2 +1,3 @@
-# MultiFNC
-MultiFNC - Multiple Files' Name Change
+# LtifNam
+
+This program changes multiple folders/ files' names at a single moment.
