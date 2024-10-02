@@ -1,5 +1,5 @@
 from tkinter import *
-from ltifnam_logics import explore_files
+from Logics.ltifnam_logics import explore_files
 
 window = Tk()
 window.title("LtifNam")
