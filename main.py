@@ -17,6 +17,6 @@ rename_btn = Button(master=window, text="Rename", width=20, height=2)
 file_path_label.grid(row=0, column=0, columnspan=3)
 file_select_btn.grid(row=1, column=1, pady=10)
 new_name_input.grid(row=2, column=1, pady=10)
-rename_btn.grid(row=3, column=1, pady=10)
+rename_btn.grid(row=3, column=1, pady=15)
 
 window.mainloop()
